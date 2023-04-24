@@ -1,0 +1,12 @@
+C:\Users\jarme\source\repos\Homework17\Person.Data\bin\Debug\net5.0\User.Data.deps.json
+C:\Users\jarme\source\repos\Homework17\Person.Data\bin\Debug\net5.0\User.Data.dll
+C:\Users\jarme\source\repos\Homework17\Person.Data\bin\Debug\net5.0\User.Data.pdb
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.csproj.AssemblyReference.cache
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.AssemblyInfoInputs.cache
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.AssemblyInfo.cs
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.csproj.CoreCompileInputs.cache
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.dll
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\refint\User.Data.dll
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\User.Data.pdb
+C:\Users\jarme\source\repos\Homework17\Person.Data\obj\Debug\net5.0\ref\User.Data.dll
